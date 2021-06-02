@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hrd54
 - 👀 I’m interested in ... Game development, 3d Modelling, Space exploration, Mechanical Engineering, Robotics, Propulsion Engineering
 - 🌱 I’m currently learning ... to code
-- 💞️ I’m looking to collaborate on ... Game development
+- 💞️ I’m looking to collaborate on ... Video Game development
 - 📫 How to reach me ... dekahridayraj@gmail.com
 
 <!---
